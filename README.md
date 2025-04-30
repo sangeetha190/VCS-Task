@@ -1,4 +1,26 @@
 
+# 🗂️ Step-by-Step Actions
+# Created a New Directory
+  - Used mkdir vcs-task and navigated into it using cd.
+
+# Created Script Files
+  - Files: script1.sh, script2.sh, script3.sh with basic echo statements.
+
+# Initialized Git Repository
+   - Ran git init to start local Git tracking.
+
+# Staged and Committed Files
+  - Used git add . and git commit -m "Initial commit" to commit files locally.
+
+# Created a GitHub Repository
+ - Repo name: VCS-Task (empty, no README)
+
+# Linked Local Repo to GitHub
+  - Command: git remote add origin <repo-URL>
+  -   Pushed initial code: git push -u origin main
+
+![Screenshot 2025-04-30 142536](https://github.com/user-attachments/assets/4800d45b-9e49-4620-82bb-df55c67ed556)
+
 
 ![image](https://github.com/user-attachments/assets/a9888803-10ed-4566-8db0-0726a26e5a9d)
 ![image](https://github.com/user-attachments/assets/02955a0c-4264-450b-b7cb-44cdb28c8768)
